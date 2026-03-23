@@ -1,0 +1,5 @@
+{
+  "name": "SmartGuard: Smart Contract Security Scanner",
+  "description": "An AI-powered security auditor for Ethereum smart contracts. Identify vulnerabilities like reentrancy, access control flaws, and logic errors in seconds.",
+  "requestFramePermissions": []
+}
